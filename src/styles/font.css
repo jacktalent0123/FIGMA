@@ -1,0 +1,16 @@
+
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RobotoRomanMedium.ttf"); font-family : "Roboto"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/RobotoRomanRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/RobotoRomanBold.ttf"); font-family : "Roboto"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : italic; src: url("assets/fonts/RobotoItalicBold.ttf"); font-family : "Roboto"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : italic; src: url("assets/fonts/RobotoItalicMedium.ttf"); font-family : "Roboto"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/MontserratRomanMedium.ttf"); font-family : "Montserrat"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/MontserratRomanRegular.ttf"); font-family : "Montserrat"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/MontserratRomanBold.ttf"); font-family : "Montserrat"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/MontserratRomanSemiBold.ttf"); font-family : "Montserrat"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/LatoBold.ttf"); font-family : "Lato"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/ManropeBold.ttf"); font-family : "Manrope"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/ManropeExtraBold.ttf"); font-family : "Manrope"; font-weight : 800;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/ManropeMedium.ttf"); font-family : "Manrope"; font-weight : 500;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/ManropeRegular.ttf"); font-family : "Manrope"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : bold; src: url("assets/fonts/MontserratRomanExtraBold.ttf"); font-family : "Montserrat"; font-weight : 800;  }
